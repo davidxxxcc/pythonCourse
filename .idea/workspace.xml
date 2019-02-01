@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="075bd7eb-d3c8-497b-9b59-3a695aa6de11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Python playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python playground.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface_practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/employee.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,52 +16,60 @@
     <session id="561434221">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="9" />
+          <entry key="py" value="12" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="11" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5601" />
+          <entry key="py" value="7217" />
           <entry key="txt" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="5601" />
+          <entry key="Python" value="7217" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/employee.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+            <state relative-caret-position="638">
+              <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
               <folding>
-                <marker date="1548971647642" expanded="true" signature="79:84" ph="..." />
-                <marker date="1548971647642" expanded="true" signature="359:364" ph="..." />
-                <marker date="1548971647642" expanded="true" signature="639:1036" ph="..." />
-                <marker date="1548971647642" expanded="true" signature="1414:1501" ph="..." />
-                <marker date="1548971647642" expanded="true" signature="1799:2331" ph="..." />
+                <marker date="1549048414465" expanded="true" signature="146:242" ph="..." />
+                <marker date="1549048414465" expanded="true" signature="267:411" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/prodtest/Lib/abc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2376">
+              <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -105,12 +112,14 @@
         <option value="$PROJECT_DIR$/test_calc.py" />
         <option value="$PROJECT_DIR$/test_employee.py" />
         <option value="$PROJECT_DIR$/employee.py" />
+        <option value="$PROJECT_DIR$/python_file.py" />
+        <option value="$PROJECT_DIR$/interface_practice.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-1928" />
+    <option name="y" value="379" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -140,7 +149,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../prodtest_python" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
@@ -160,28 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.employee">
-    <configuration name="Pizza" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python playground" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\frchang\AppData\Local\conda\conda\envs\prodtest\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pizza.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.interface_practice">
     <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python playground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -195,6 +183,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/employee.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="interface_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python playground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="python_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python playground" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,27 +254,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python playground" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\frchang\AppData\Local\conda\conda\envs\prodtest\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests in test_calc.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Python playground" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,19 +270,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Pizza" />
       <item itemvalue="Python.scratch" />
-      <item itemvalue="Python.string_practice" />
       <item itemvalue="Python.employee" />
       <item itemvalue="Python tests.Unittests in test_calc.py" />
+      <item itemvalue="Python.python_file" />
+      <item itemvalue="Python.interface_practice" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.interface_practice" />
+        <item itemvalue="Python.python_file" />
         <item itemvalue="Python.employee" />
         <item itemvalue="Python tests.Unittests in test_calc.py" />
         <item itemvalue="Python.scratch" />
-        <item itemvalue="Python.string_practice" />
-        <item itemvalue="Python.Pizza" />
       </list>
     </recent_temporary>
   </component>
@@ -295,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548901541904</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add employee test file">
+      <created>1548971847387</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548971847387</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -316,13 +332,13 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-1928" y="379" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.08619778" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.21840297" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.3605442" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.36004645" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32911393" />
       <window_info anchor="bottom" id="Message" order="3" />
@@ -375,10 +391,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="560">
           <caret line="40" lean-forward="true" selection-start-line="6" selection-end-line="51" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1548901451780" expanded="true" signature="239:276" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -386,26 +398,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
-          <folding>
-            <marker date="1548890735034" expanded="true" signature="14:19" ph="..." />
-            <marker date="1548890735034" expanded="true" signature="51:56" ph="..." />
-            <marker date="1548890735034" expanded="true" signature="89:94" ph="..." />
-            <marker date="1548890735034" expanded="true" signature="124:129" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/employee.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="100" column="4" selection-start-line="100" selection-start-column="4" selection-end-line="100" selection-end-column="4" />
+        <state relative-caret-position="528">
+          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
           <folding>
-            <marker date="1548971647642" expanded="true" signature="79:84" ph="..." />
-            <marker date="1548971647642" expanded="true" signature="359:364" ph="..." />
-            <marker date="1548971647642" expanded="true" signature="639:1036" ph="..." />
-            <marker date="1548971647642" expanded="true" signature="1414:1501" ph="..." />
-            <marker date="1548971647642" expanded="true" signature="1799:2331" ph="..." />
+            <marker date="1548971833378" expanded="true" signature="79:84" ph="..." />
+            <marker date="1548971833378" expanded="true" signature="359:364" ph="..." />
+            <marker date="1548971833378" expanded="true" signature="639:1036" ph="..." />
+            <marker date="1548971833378" expanded="true" signature="1414:1501" ph="..." />
+            <marker date="1548971833378" expanded="true" signature="1799:2331" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="40" column="36" selection-start-line="40" selection-start-column="36" selection-end-line="40" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <marker date="1549048414465" expanded="true" signature="146:242" ph="..." />
+            <marker date="1549048414465" expanded="true" signature="267:411" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/conda/conda/envs/prodtest/Lib/abc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2376">
+          <caret line="108" column="6" selection-start-line="108" selection-start-column="6" selection-end-line="108" selection-end-column="6" />
         </state>
       </provider>
     </entry>
